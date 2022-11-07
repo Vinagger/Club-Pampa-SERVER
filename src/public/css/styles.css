@@ -1,0 +1,61 @@
+.marco {
+    margin-top: 2rem;
+    width: 300px;
+    min-height: 350px;
+    border-radius: 20px !important;
+    box-shadow: 5px 5px black;
+    background-color: #014601;
+}
+
+.lista-datos {
+    margin-top: 5px;
+}
+
+.marco-info {
+    padding: 0.5rem;
+}
+
+.marco-foto-escudo {
+    display: flex;
+    padding: 0, 10px, 10px, 10px;
+    gap: 10px;
+
+}
+
+.escudo-club {
+    width: 48%;
+}
+
+.foto {
+    border-radius: 20px;
+    width: 48%;
+    height: auto;
+    object-fit: cover;
+}
+
+ul {
+    padding: 0px !important;
+    margin-top: 5px !important;
+    color: antiquewhite;
+}
+
+li {
+    list-style: none;
+}
+
+li h5 {
+    text-align: center;
+    margin: 1rem;
+    font-size: 2rem;
+    color: black;
+}
+
+li p {
+    text-align: center;
+    margin: 0px;
+    font-size: 50px;
+    color: yellow;
+}
+
+
+
